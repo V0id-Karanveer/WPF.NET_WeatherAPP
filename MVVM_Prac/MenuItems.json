@@ -1,0 +1,10 @@
+﻿[
+  {
+    "Title": "Rain",
+    "ViewName": "RainView"
+  },
+  {
+    "Title": "Day",
+    "ViewName": "DayView"
+  }
+]

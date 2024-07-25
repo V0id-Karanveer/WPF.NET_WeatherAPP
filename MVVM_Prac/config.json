@@ -1,0 +1,7 @@
+﻿{
+	"ApiKey":"0xpRM0q1IZI0EGCq0B1bzsYrqAvoSAII",
+	"BaseUrl":"http://dataservice.accuweather.com/",
+	"SearchCitiesApi":"locations/v1/cities/autocomplete?apikey={0}&q={1}",
+	"CurrentConditions":"currentconditions/v1/{0}?apikey={1}",
+	"API_KEY":"rbOviplrQcPTcnZXpZq4EVGPz25rGO8y"
+}
